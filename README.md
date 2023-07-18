@@ -11,6 +11,7 @@ They also provided some useful codes for downloading and working with this data:
 https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/projects/neurons/load_stringer_spontaneous.ipynb
 
 The following references are interesting studies that used the Stringer dataset:
+
 1- https://www.cell.com/cell/fulltext/S0092-8674(21)00373-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421003731%3Fshowall%3Dtrue
 
 2- https://www.science.org/doi/10.1126/science.aav7893
